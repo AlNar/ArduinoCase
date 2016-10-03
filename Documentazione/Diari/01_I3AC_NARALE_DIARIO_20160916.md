@@ -1,4 +1,4 @@
-# Diario Arduino Case - 16.09.2016
+# Diario Arduino Case Nr. 3
 
 | Luogo        | Data           |
 | ------------- |:-------------:|
