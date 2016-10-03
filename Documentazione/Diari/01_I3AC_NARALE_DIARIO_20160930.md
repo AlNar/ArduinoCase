@@ -13,4 +13,4 @@ Per le restanti 4 ore (1 nella mattina e 3 nel pomeriggio) abbiamo sviluppato il
 ## Punto della situazione rispetto alla pianificazione
 
 ## Programma di massima per la prossima giornata
-Continuare a lavorare sulla documentazione e l'analisi. Fare l'use case del nostro progetto.
+Continuare a lavorare sulla documentazione, fare il Gantt e consegnare la lista dei materiali
