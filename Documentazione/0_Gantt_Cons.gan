@@ -52,7 +52,7 @@
             <depend id="6" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="6" name="Assemblaggio del case" color="#8cb6ce" meeting="false" start="2016-10-21" duration="5" complete="0" expand="true"/>
-        <task id="7" name="Documentazione" color="#8cb6ce" meeting="false" start="2016-09-09" duration="35" complete="0" expand="true"/>
+        <task id="7" name="Documentazione" color="#8cb6ce" meeting="false" start="2016-09-09" duration="36" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
