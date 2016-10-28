@@ -140,7 +140,7 @@ Data di consegna (Documentazione e Presentazione): 28.10.2016
 - Utensili di lavoro
   - Usati per il taglio del legno
 
-## Progettazione ------
+## Progettazione
 
 ### Costi e materiali
 
